@@ -1,2 +1,2 @@
 # HyperbolicSolvers
-Repository for numerical methods for solving hypolic problems.
+Repository for numerical methods for solving hyperbolic problems.
